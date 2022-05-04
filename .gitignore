@@ -12,6 +12,3 @@ node_modules
 */.DS_Store
 */*/.DS_Store
 /_doc
-*.jpg
-/img/pictureWarehouse
-/img/post
