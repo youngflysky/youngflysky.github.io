@@ -5,6 +5,7 @@
 　　<strong style="color:#00b050;">**从开始自学计算机的那天起到现在, 我一直留意记下自己学习的轨迹. 我想这不仅仅有助于巩固知识提高自己, 更是若干年后留给自己的一份宝贵的财富. 这个 Blog 也是这个想法的产物.** </strong>
 
 - [GitHub](https://github.com/youngflysky/) : 这是我的 GitHub 主页, 一步步在 GitHub star 和 create 仓库, 是我学习历程最生动的痕迹. 
+- [YFS Blog](https://youngflysky.fun/archive/): 这是我的博客仓库。
 - [CSDN](https://blog.csdn.net/bingleya?spm=1000.2115.3001.5343) : 这是我的 CSDN 主页, 从 CSDN 上面我学到了很多基础的知识, 也在CSDN 上面发布了几篇稚嫩的学习笔记. 
 - [C-CODE](https://github.com/youngflysky/z_C-CODE) : 这是我在 GitHub 上面创建的第一个仓库, 里面保存着我刚开始自学时- -从 "Hello world" 开始- -的代码. 
 
