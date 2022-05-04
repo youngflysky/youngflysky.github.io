@@ -1,0 +1,113 @@
+# Site settings
+title: YFS Blog
+SEOTitle: YFS Blog
+header-img: img/home-bg.jpg
+email: li.liang.zigod@gmail.com
+description: "个人博客"
+keyword: "记录生活"
+url: "http://youngflysky.fun"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+
+# Publish po sts or collection documents with a future date.
+future: true
+
+# SNS settings
+RSS: false
+
+github_username:      youngflysky
+#zhihu_username:    qi-yue-liu-huo-68-26
+#weibo_username:     huxpro
+#twitter_username:   huxpro
+#facebook_username:  huxpro
+#linkedin_username:  firstname-lastname-idxxxx
+
+
+
+# Build settings
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+highlighter: rouge
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+# If you have timezone issue (e.g. #68) in China, uncomment to use this:
+#timezone: CN  
+
+
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+# make sure you have this gem installed
+# `$ gem install jekyll-paginate`
+plugins: [jekyll-paginate]
+
+
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
+  syntax_highlighter_opts:
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+
+
+# Disqus settings
+;disqus_username: youngflysky
+
+# Netease settings
+netease_comment: false
+
+
+
+# Analytics settings
+# Baidu Analytics 
+# ba_track_id: [your track id]
+
+# Google Analytics
+ga_track_id: 'G-R1VP3H5KKZ'            # Format: UA-xxxxxx-xx
+ga_domain: youngflysky.fun
+
+
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "在2021年的冬天, 名为 COVID-2019 的病毒仍在肆虐<br>而我选择了重新开始"
+sidebar-avatar: https://avatars.githubusercontent.com/u/65670617?v=4   # use absolute URL, seeing it's used in both `/` and `/about/`
+
+
+
+# Featured Tags
+featured-tags: true                     # whether or not using Feature-Tags
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+
+
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
+
+
+# MathJax rendering for layout:page (e.g. post preview)
+page-mathjax: false
+
+
+
+# Friends
+friends: [
+    {
+        title: "CSDN",
+         href: "https://blog.csdn.net/bingleya?spm=1000.2115.3001.5343"
+     },{
+        title: "GitHub",
+        href: "https://github.com/youngflysky"
+    }
+ ]
