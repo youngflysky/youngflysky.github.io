@@ -1,6 +1,6 @@
 ---
-title: "常用软件下载地址"
-subtitle:
+title: "Commonly used Softwares and Resources Lists"
+subtitle: "官方渠道"
 layout: post
 author: "youngflysky"
 date: 2022-05-27 22:09:13
@@ -10,7 +10,7 @@ tags:
 - Tec
 ---
 
->装机后常用软件官网下载地址
+>- 
 
 # 装机
 
