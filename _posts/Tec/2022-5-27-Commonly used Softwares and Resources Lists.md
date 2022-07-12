@@ -10,7 +10,8 @@ tags:
 - Tec
 ---
 
->- 
+>- [软件配置指南](https://youngflysky.fun/2022/07/11/%E8%A3%85%E6%9C%BA%E9%85%8D%E7%BD%AE%E8%AF%B4%E6%98%8E/)
+>- [OS ROM 校验](https://youngflysky.fun/2022/07/12/OS_ROM-_SHA1/)
 
 # 装机
 
@@ -24,11 +25,11 @@ tags:
 
 # Windows 环境软件
 
-|       [Git - Downloads](https://git-scm.com/downloads)       |         [小乌龟](https://tortoisegit.org/download/)          | [TortoiseGit设置SSH 教程](https://www.helloworld.net/p/3473596944) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [MinGW-w64 seh 下载](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/) |   [Jekyll 环境下载](https://rubyinstaller.org/downloads/)    | [Windows 搭建 Jekyll 环境教程 ](https://cloud.tencent.com/developer/article/1341169) |
-|     [下载  Node.js](https://nodejs.org/zh-cn/download/)      | [NirCmd 页面底部下载](http://www.nirsoft.net/utils/nircmd.html) |         [Pandoc](https://pandoc.org/installing.html)         |
-|                                                              |                                                              |                                                              |
+|       [Git - Downloads](https://git-scm.com/downloads)       |         [小乌龟](https://tortoisegit.org/download/)          |                                              |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------------------: |
+| [MinGW-w64 seh 下载](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/) |   [Jekyll 环境下载](https://rubyinstaller.org/downloads/)    |                                              |
+|     [下载  Node.js](https://nodejs.org/zh-cn/download/)      | [NirCmd 页面底部下载](http://www.nirsoft.net/utils/nircmd.html) | [Pandoc](https://pandoc.org/installing.html) |
+|                                                              |                                                              |                                              |
 
 # Windows 应用软件
 
