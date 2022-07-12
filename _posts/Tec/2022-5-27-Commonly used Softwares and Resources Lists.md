@@ -39,7 +39,7 @@ tags:
 
 # 安卓应用合集
 
-| [搞机助手](https://lsdy.top/gjzs) | [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases) | [YouTube Vanced](https://youtubevanced.com/) |
-| :-------------------------------: | :----------------------------------------------------------: | :------------------------------------------: |
-|                                   |                                                              |                                              |
+|            [搞机助手](https://lsdy.top/gjzs)             | [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases) |         [YouTube Vanced](https://youtubevanced.com/)         |
+| :------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [小米解锁工具](http://www.miui.com/unlock/download.html) | [小米线刷工具](http://bigota.d.miui.com/tools/MiFlashSetup201612220.msi) | [小米全系列机型ROM包下载](https://web.vip.miui.com/page/info/mio/mio/detail?postId=5896315&app_version=dev.20220427&ref=share&channel=Share) |
 
