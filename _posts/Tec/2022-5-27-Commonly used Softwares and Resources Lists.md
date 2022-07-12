@@ -17,34 +17,29 @@ tags:
 
 | [小米15.6笔记本驱动](https://www.mi.com/service/bijiben/drivers/15) |  [微PE工具箱 - 下载](https://www.wepe.com.cn/download.html)  | [下载 Windows 10](https://www.microsoft.com/zh-cn/software-download/windows10%20) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|              [MSDN](https://msdn.itellyou.cn/)               |     [NEXT-TELL-YOU](https://next.itellyou.cn/Original/#)     |                                                              |
-|    [IDM](https://www.internetdownloadmanager.cn/download)    |     [chrome](https://www.google.com/intl/zh-CN/chrome/)      |      [下载 - Quicker](https://getquicker.net/Download)       |
-| [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases/tag/v10.1.1002.1) |        [Geek](https://geekuninstaller.pro/download/)         |             [MacType](https://www.mactype.net/)              |
-| [noMeiryoUI ](https://github.com/Tatsu-syo/noMeiryoUI/releases) | [更纱黑体](https://github.com/be5invis/Sarasa-Gothic/releases) | [source-code-pro · GitHub](https://github.com/adobe-fonts/source-code-pro/releases) |
-|        [everything](https://www.voidtools.com/zh-cn/)        | [clash_for_windows](https://github.com/Fndroid/clash_for_windows_pkg/releases) | [NVIDIA显卡驱动](https://www.nvidia.cn/Download/index.aspx?lang=cn) |
+|              [MSDN](https://msdn.itellyou.cn/)               |     [NEXT-TELL-YOU](https://next.itellyou.cn/Original/#)     | [NVIDIA显卡驱动](https://www.nvidia.cn/Download/index.aspx?lang=cn) |
+|      [下载 - Quicker](https://getquicker.net/Download)       | [clash_for_windows](https://github.com/Fndroid/clash_for_windows_pkg/releases) |    [IDM](https://www.internetdownloadmanager.cn/download)    |
+| [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases/tag/v10.1.1002.1) |        [Geek](https://geekuninstaller.pro/download/)         | [source-code-pro · GitHub](https://github.com/adobe-fonts/source-code-pro/releases) |
+| [更纱黑体](https://github.com/be5invis/Sarasa-Gothic/releases) | [noMeiryoUI ](https://github.com/Tatsu-syo/noMeiryoUI/releases) |             [MacType](https://www.mactype.net/)              |
+|        [everything](https://www.voidtools.com/zh-cn/)        |     [chrome](https://www.google.com/intl/zh-CN/chrome/)      |                                                              |
 
 # Windows 环境软件
 
-|       [Git - Downloads](https://git-scm.com/downloads)       |         [小乌龟](https://tortoisegit.org/download/)          |                                              |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------------------: |
-| [MinGW-w64 seh 下载](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/) |   [Jekyll 环境下载](https://rubyinstaller.org/downloads/)    |                                              |
-|     [下载  Node.js](https://nodejs.org/zh-cn/download/)      | [NirCmd 页面底部下载](http://www.nirsoft.net/utils/nircmd.html) | [Pandoc](https://pandoc.org/installing.html) |
-|                                                              |                                                              |                                              |
+|       [Git - Downloads](https://git-scm.com/downloads)       |     [小乌龟](https://tortoisegit.org/download/)     | [MinGW-w64 seh 下载](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/) |
+| :----------------------------------------------------------: | :-------------------------------------------------: | :----------------------------------------------------------: |
+| [NirCmd 页面底部下载](http://www.nirsoft.net/utils/nircmd.html) | [下载  Node.js](https://nodejs.org/zh-cn/download/) |   [Jekyll 环境下载](https://rubyinstaller.org/downloads/)    |
+|         [Pandoc](https://pandoc.org/installing.html)         |  [VSCode](https://code.visualstudio.com/download)   | [Visual Studio](https://visualstudio.microsoft.com/zh-hans/vs/older-downloads/) |
 
 # Windows 应用软件
 
-|          [QQ](https://im.qq.com/download)           |                [微信](https://weixin.qq.com/)                | [QQ音乐下载](https://y.qq.com/download/welcome_pc_v15/index.html?ADTAG=YQQ) |
+|          [QQ](https://im.qq.com/download)           |                [微信](https://weixin.qq.com/)                | [QQ音乐](https://y.qq.com/download/welcome_pc_v15/index.html?ADTAG=YQQ) |
 | :-------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |      [Telegram](https://desktop.telegram.org/)      | [Steam ](https://store.steampowered.com/about/Steam?l=schinese) |          [百度网盘](https://pan.baidu.com/download)          |
-|  [VSCode](https://code.visualstudio.com/download)   | [Visual Studio](https://visualstudio.microsoft.com/zh-hans/vs/older-downloads/) |               [EV 录屏](https://www.ieway.cn/)               |
-| [腾讯会议](https://source.meeting.qq.com/download/) |   [EasyConnect](https://mirrors.sdwu.edu.cn/easyconnect/)    |                                                              |
-|                                                     |                                                              |                                                              |
+| [腾讯会议](https://source.meeting.qq.com/download/) |   [EasyConnect](https://mirrors.sdwu.edu.cn/easyconnect/)    |               [EV 录屏](https://www.ieway.cn/)               |
 
 # 安卓应用合集
 
 | [搞机助手](https://lsdy.top/gjzs) | [ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases) | [YouTube Vanced](https://youtubevanced.com/) |
 | :-------------------------------: | :----------------------------------------------------------: | :------------------------------------------: |
-|                                   |                                                              |                                              |
-|                                   |                                                              |                                              |
 |                                   |                                                              |                                              |
 
