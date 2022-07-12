@@ -35,7 +35,7 @@ tags:
 |          [QQ](https://im.qq.com/download)           |                [微信](https://weixin.qq.com/)                | [QQ音乐](https://y.qq.com/download/welcome_pc_v15/index.html?ADTAG=YQQ) |
 | :-------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |      [Telegram](https://desktop.telegram.org/)      | [Steam ](https://store.steampowered.com/about/Steam?l=schinese) |          [百度网盘](https://pan.baidu.com/download)          |
-| [腾讯会议](https://source.meeting.qq.com/download/) |   [EasyConnect](https://mirrors.sdwu.edu.cn/easyconnect/)    |               [EV 录屏](https://www.ieway.cn/)               |
+| [腾讯会议](https://source.meeting.qq.com/download/) | [EasyConnect](https://vpn.shiep.edu.cn/com/installClient.html#auto-common) |               [EV 录屏](https://www.ieway.cn/)               |
 
 # 安卓应用合集
 
@@ -43,3 +43,4 @@ tags:
 | :------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [小米解锁工具](http://www.miui.com/unlock/download.html) | [小米线刷工具](http://bigota.d.miui.com/tools/MiFlashSetup201612220.msi) | [小米全系列机型ROM包下载](https://web.vip.miui.com/page/info/mio/mio/detail?postId=5896315&app_version=dev.20220427&ref=share&channel=Share) |
 
+  
