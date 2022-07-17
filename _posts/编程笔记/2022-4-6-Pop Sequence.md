@@ -8,9 +8,8 @@ header-style: text
 catalog: true
 tags:
 - C++
-- linked list
-- stack
-- 陈越数据结构
+- 算法
+- OJ笔记
 ---
 
 ><strong style="color:#c00000;">通过模拟法对问题求解</strong><br/>

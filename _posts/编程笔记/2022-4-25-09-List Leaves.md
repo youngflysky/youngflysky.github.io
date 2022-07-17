@@ -8,9 +8,8 @@ header-style: text
 catalog: true
 tags:
 - C++
-- binary tree
-- level traversal
-- 陈越数据结构
+- OJ笔记
+- 算法
 ---
 
 > - **[PTA OJ 网页](https://pintia.cn/problem-sets?tab=0)**
