@@ -29,7 +29,7 @@ tags:
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [NirCmd 页面底部下载](http://www.nirsoft.net/utils/nircmd.html) |     [下载  Node.js](https://nodejs.org/zh-cn/download/)      |   [Jekyll 环境下载](https://rubyinstaller.org/downloads/)    |
 |         [Pandoc](https://pandoc.org/installing.html)         |       [VSCode](https://code.visualstudio.com/download)       | [Visual Studio](https://visualstudio.microsoft.com/zh-hans/vs/older-downloads/) |
-| [傲梅分区助手免安装版要使用码](https://www.disktool.cn/download.html) | [傲梅分区助手安装版有使用码](https://www.disktool.cn/download-adfree.html) |                                                              |
+| [傲梅分区助手免安装版要使用码](https://www.disktool.cn/download.html) | [傲梅分区助手安装版有使用码](https://www.disktool.cn/download-adfree.html) |         [Rufus-创建USB启动盘](https://rufus.ie/zh/)          |
 
 # Windows 应用软件
 
