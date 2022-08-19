@@ -23,21 +23,20 @@ tags:
 | [更纱黑体](https://github.com/be5invis/Sarasa-Gothic/releases) | [noMeiryoUI ](https://github.com/Tatsu-syo/noMeiryoUI/releases) |             [MacType](https://www.mactype.net/)              |
 |        [everything](https://www.voidtools.com/zh-cn/)        |     [chrome](https://www.google.com/intl/zh-CN/chrome/)      |                                                              |
 
-# Windows 环境软件
+# Windows 工具软件
 
-|       [Git - Downloads](https://git-scm.com/downloads)       |     [小乌龟](https://tortoisegit.org/download/)     | [MinGW-w64 seh 下载](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/) |
-| :----------------------------------------------------------: | :-------------------------------------------------: | :----------------------------------------------------------: |
-| [NirCmd 页面底部下载](http://www.nirsoft.net/utils/nircmd.html) | [下载  Node.js](https://nodejs.org/zh-cn/download/) |   [Jekyll 环境下载](https://rubyinstaller.org/downloads/)    |
-|         [Pandoc](https://pandoc.org/installing.html)         |  [VSCode](https://code.visualstudio.com/download)   | [Visual Studio](https://visualstudio.microsoft.com/zh-hans/vs/older-downloads/) |
+|       [Git - Downloads](https://git-scm.com/downloads)       |         [小乌龟](https://tortoisegit.org/download/)          | [MinGW-w64 seh 下载](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [NirCmd 页面底部下载](http://www.nirsoft.net/utils/nircmd.html) |     [下载  Node.js](https://nodejs.org/zh-cn/download/)      |   [Jekyll 环境下载](https://rubyinstaller.org/downloads/)    |
+|         [Pandoc](https://pandoc.org/installing.html)         |       [VSCode](https://code.visualstudio.com/download)       | [Visual Studio](https://visualstudio.microsoft.com/zh-hans/vs/older-downloads/) |
+| [傲梅分区助手免安装版要使用码](https://www.disktool.cn/download.html) | [傲梅分区助手安装版有使用码](https://www.disktool.cn/download-adfree.html) |                                                              |
 
 # Windows 应用软件
 
-|              [QQ](https://im.qq.com/download)              |                [微信](https://weixin.qq.com/)                | [QQ音乐](https://y.qq.com/download/welcome_pc_v15/index.html?ADTAG=YQQ) |
-| :--------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|         [Telegram](https://desktop.telegram.org/)          | [Steam ](https://store.steampowered.com/about/Steam?l=schinese) |          [百度网盘](https://pan.baidu.com/download)          |
-|    [腾讯会议](https://source.meeting.qq.com/download/)     | [EasyConnect](https://vpn.shiep.edu.cn/com/installClient.html#auto-common) |               [EV 录屏](https://www.ieway.cn/)               |
-|                [Typora](https://typora.io/)                |       [Typora 账户](https://secure.2co.com/myaccount/)       |    [PicGo](https://github.com/Molunerfinn/PicGo/releases)    |
-| [B站下载姬](https://github.com/leiurayer/downkyi/releases) |                                                              |                                                              |
+|          [QQ](https://im.qq.com/download)           |                [微信](https://weixin.qq.com/)                | [QQ音乐](https://y.qq.com/download/welcome_pc_v15/index.html?ADTAG=YQQ) |
+| :-------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|      [Telegram](https://desktop.telegram.org/)      | [Steam ](https://store.steampowered.com/about/Steam?l=schinese) |          [百度网盘](https://pan.baidu.com/download)          |
+| [腾讯会议](https://source.meeting.qq.com/download/) | [EasyConnect](https://vpn.shiep.edu.cn/com/installClient.html#auto-common) |               [EV 录屏](https://www.ieway.cn/)               |
 
 # 安卓应用合集
 
