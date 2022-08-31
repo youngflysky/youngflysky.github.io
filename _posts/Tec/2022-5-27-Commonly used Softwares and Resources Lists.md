@@ -21,8 +21,8 @@ tags:
 |      [下载 - Quicker](https://getquicker.net/Download)       | [clash_for_windows](https://github.com/Fndroid/clash_for_windows_pkg/releases) | [clash汉化文件](https://sabrinathings.lanzoui.com/b01hweblc) |
 | [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases/tag/v10.1.1002.1) |        [Geek](https://geekuninstaller.pro/download/)         | [source-code-pro · GitHub](https://github.com/adobe-fonts/source-code-pro/releases) |
 | [更纱黑体](https://github.com/be5invis/Sarasa-Gothic/releases) | [noMeiryoUI ](https://github.com/Tatsu-syo/noMeiryoUI/releases) |             [MacType](https://www.mactype.net/)              |
-|        [everything](https://www.voidtools.com/zh-cn/)        |     [chrome](https://www.google.com/intl/zh-CN/chrome/)      | [centos-7.x-阿里云镜像](http://mirrors.aliyun.com/centos/7.9.2009/isos/x86_64/) |
-|       [Ubuntu](https://cn.ubuntu.com/download/desktop)       |    [IDM](https://www.internetdownloadmanager.cn/download)    | [Defender Control](https://www.sordum.org/downloads/?st-defender-control) |
+|        [everything](https://www.voidtools.com/zh-cn/)        |     [chrome](https://www.google.com/intl/zh-CN/chrome/)      | [Defender Control](https://www.sordum.org/downloads/?st-defender-control) |
+|                                                              |                                                              |                                                              |
 
 # Windows 工具软件
 
@@ -45,4 +45,9 @@ tags:
 | :------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [小米解锁工具](http://www.miui.com/unlock/download.html) | [小米线刷工具](http://bigota.d.miui.com/tools/MiFlashSetup201612220.msi) | [小米全系列机型ROM包下载](https://web.vip.miui.com/page/info/mio/mio/detail?postId=5896315&app_version=dev.20220427&ref=share&channel=Share) |
 
-  
+# Linux
+
+| [Ubuntu](https://cn.ubuntu.com/download/desktop) | [CentOS Mirrors List](http://isoredirect.centos.org/centos/7/isos/x86_64/) | [Micro Edge Linux](https://www.microsoft.com/zh-cn/edge#evergreen) |
+| :----------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|                                                  |                                                              |                                                              |
+
