@@ -18,11 +18,11 @@ tags:
 | [小米15.6笔记本驱动](https://www.mi.com/service/bijiben/drivers/15) |  [微PE工具箱 - 下载](https://www.wepe.com.cn/download.html)  | [下载 Windows 10](https://www.microsoft.com/zh-cn/software-download/windows10%20) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |              [MSDN](https://msdn.itellyou.cn/)               |     [NEXT-TELL-YOU](https://next.itellyou.cn/Original/#)     | [NVIDIA显卡驱动](https://www.nvidia.cn/Download/index.aspx?lang=cn) |
-|      [下载 - Quicker](https://getquicker.net/Download)       | [clash_for_windows](https://github.com/Fndroid/clash_for_windows_pkg/releases) |    [IDM](https://www.internetdownloadmanager.cn/download)    |
+|      [下载 - Quicker](https://getquicker.net/Download)       | [clash_for_windows](https://github.com/Fndroid/clash_for_windows_pkg/releases) | [clash汉化文件](https://sabrinathings.lanzoui.com/b01hweblc) |
 | [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases/tag/v10.1.1002.1) |        [Geek](https://geekuninstaller.pro/download/)         | [source-code-pro · GitHub](https://github.com/adobe-fonts/source-code-pro/releases) |
 | [更纱黑体](https://github.com/be5invis/Sarasa-Gothic/releases) | [noMeiryoUI ](https://github.com/Tatsu-syo/noMeiryoUI/releases) |             [MacType](https://www.mactype.net/)              |
 |        [everything](https://www.voidtools.com/zh-cn/)        |     [chrome](https://www.google.com/intl/zh-CN/chrome/)      | [centos-7.x-阿里云镜像](http://mirrors.aliyun.com/centos/7.9.2009/isos/x86_64/) |
-|       [Ubuntu](https://cn.ubuntu.com/download/desktop)       |                                                              |                                                              |
+|       [Ubuntu](https://cn.ubuntu.com/download/desktop)       |    [IDM](https://www.internetdownloadmanager.cn/download)    | [Defender Control](https://www.sordum.org/downloads/?st-defender-control) |
 
 # Windows 工具软件
 
