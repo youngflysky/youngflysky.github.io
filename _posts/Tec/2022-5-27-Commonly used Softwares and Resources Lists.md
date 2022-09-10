@@ -31,7 +31,7 @@ tags:
 |     [下载  Node.js](https://nodejs.org/zh-cn/download/)      |   [Jekyll 环境下载](https://rubyinstaller.org/downloads/)    |         [Pandoc](https://pandoc.org/installing.html)         |
 | [NirCmd 页面底部下载](http://www.nirsoft.net/utils/nircmd.html) |       [VSCode](https://code.visualstudio.com/download)       |              [Typora  下载](https://typora.io/)              |
 | [Visual Studio](https://visualstudio.microsoft.com/zh-hans/vs/older-downloads/) |           [小龙 Dev-C++](https://devcpp.gitee.io/)           | [Typora 订阅管理](https://secure.2co.com/myaccount/?version=new) |
-| [傲梅分区助手免安装版要使用码](https://www.disktool.cn/download.html) | [傲梅分区助手安装版无使用码](https://www.disktool.cn/download-adfree.html) |                                                              |
+| [傲梅分区助手免安装版要使用码](https://www.disktool.cn/download.html) | [傲梅分区助手安装版无使用码](https://www.disktool.cn/download-adfree.html) | [Microsoft 服务和订阅](https://account.microsoft.com/services) |
 
 # Windows 应用软件
 
