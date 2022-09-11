@@ -21,8 +21,8 @@ tags:
 |         [ Quicker](https://getquicker.net/Download)          | [clash_for_windows](https://github.com/Fndroid/clash_for_windows_pkg/releases) | [clash汉化文件](https://sabrinathings.lanzoui.com/b01hweblc) |
 | [clash 规则](https://github.com/youngflysky/Typora/blob/main/Post%E2%80%94doc/%E9%A2%84%E5%A4%84%E7%90%86%E9%85%8D%E7%BD%AE.txt) | [更纱黑体](https://github.com/be5invis/Sarasa-Gothic/releases) | [noMeiryoUI ](https://github.com/Tatsu-syo/noMeiryoUI/releases) |
 |             [MacType](https://www.mactype.net/)              | [Defender Control](https://www.sordum.org/downloads/?st-defender-control) |         [火绒](https://www.huorong.cn/person5.html)          |
-| [Geek](https://geekuninstaller.pro/download/)[everything](https://www.voidtools.com/zh-cn/) | [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases/tag/v10.1.1002.1) |     [chrome](https://www.google.com/intl/zh-CN/chrome/)      |
-| [source-code-pro · GitHub](https://github.com/adobe-fonts/source-code-pro/releases) |                                                              |                                                              |
+|        [Geek](https://geekuninstaller.pro/download/)         | [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases/tag/v10.1.1002.1) |     [chrome](https://www.google.com/intl/zh-CN/chrome/)      |
+| [source-code-pro · GitHub](https://github.com/adobe-fonts/source-code-pro/releases) |        [everything](https://www.voidtools.com/zh-cn/)        |                                                              |
 
 # Windows 工具软件
 
