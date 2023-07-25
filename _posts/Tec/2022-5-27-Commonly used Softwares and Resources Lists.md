@@ -35,7 +35,7 @@ tags:
 
 # Windows 应用软件
 
-|                [QQ](https://im.qq.com/pcqq)                 |                [微信](https://weixin.qq.com/)                | [QQ音乐](https://y.qq.com/download/welcome_pc_v15/index.html?ADTAG=YQQ) |
+|        [QQ](https://im.qq.com/index/#downloadAnchor)        |                [微信](https://weixin.qq.com/)                | [QQ音乐](https://y.qq.com/download/welcome_pc_v15/index.html?ADTAG=YQQ) |
 | :---------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |          [Telegram](https://desktop.telegram.org/)          | [Steam ](https://store.steampowered.com/about/Steam?l=schinese) |          [百度网盘](https://pan.baidu.com/download)          |
 |     [腾讯会议](https://source.meeting.qq.com/download/)     | [EasyConnect](https://vpn.shiep.edu.cn/com/installClient.html#auto-common) |               [EV 录屏](https://www.ieway.cn/)               |
