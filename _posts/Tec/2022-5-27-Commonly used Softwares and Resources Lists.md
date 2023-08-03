@@ -39,7 +39,7 @@ tags:
 | :---------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |          [Telegram](https://desktop.telegram.org/)          | [Steam ](https://store.steampowered.com/about/Steam?l=schinese) |          [百度网盘](https://pan.baidu.com/download)          |
 |     [腾讯会议](https://source.meeting.qq.com/download/)     | [EasyConnect](https://vpn.shiep.edu.cn/com/installClient.html#auto-common) |               [EV 录屏](https://www.ieway.cn/)               |
-| [下载 PicGo](https://github.com/Molunerfinn/PicGo/releases) |                                                              |                                                              |
+| [下载 PicGo](https://github.com/Molunerfinn/PicGo/releases) |    [企业微信](https://work.weixin.qq.com/#indexDownload)     |                                                              |
 
 # 安卓应用合集
 
