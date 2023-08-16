@@ -11,7 +11,14 @@ tags:
 ---
 
 >- [软件配置指南](https://youngflysky.fun/2022/07/11/%E8%A3%85%E6%9C%BA%E9%85%8D%E7%BD%AE%E8%AF%B4%E6%98%8E/)
->- [OS ROM 校验](https://youngflysky.fun/2022/07/12/OS_ROM-_SHA1/)
+
+# Windows 应用软件
+
+|        [QQ](https://im.qq.com/index/#downloadAnchor)        |                [微信](https://weixin.qq.com/)                | [QQ音乐](https://y.qq.com/download/welcome_pc_v15/index.html?ADTAG=YQQ) |
+| :---------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|          [Telegram](https://desktop.telegram.org/)          | [Steam ](https://store.steampowered.com/about/Steam?l=schinese) |          [百度网盘](https://pan.baidu.com/download)          |
+|     [腾讯会议](https://source.meeting.qq.com/download/)     | [EasyConnect](https://vpn.shiep.edu.cn/com/installClient.html#auto-common) |               [EV 录屏](https://www.ieway.cn/)               |
+| [下载 PicGo](https://github.com/Molunerfinn/PicGo/releases) |    [企业微信](https://work.weixin.qq.com/#indexDownload)     |        [网易云音乐](https://music.163.com/#/download)        |
 
 # 装机
 
@@ -32,14 +39,6 @@ tags:
 | [NirCmd 页面底部下载](http://www.nirsoft.net/utils/nircmd.html) |       [VSCode](https://code.visualstudio.com/download)       |              [Typora  下载](https://typora.io/)              |
 | [Visual Studio](https://visualstudio.microsoft.com/zh-hans/vs/older-downloads/) |           [小龙 Dev-C++](https://devcpp.gitee.io/)           | [Typora 订阅管理](https://secure.2co.com/myaccount/?version=new) |
 | [傲梅分区助手免安装版要使用码](https://www.disktool.cn/download.html) | [傲梅分区助手安装版无使用码](https://www.disktool.cn/download-adfree.html) | [Microsoft 服务和订阅](https://account.microsoft.com/services) |
-
-# Windows 应用软件
-
-|        [QQ](https://im.qq.com/index/#downloadAnchor)        |                [微信](https://weixin.qq.com/)                | [QQ音乐](https://y.qq.com/download/welcome_pc_v15/index.html?ADTAG=YQQ) |
-| :---------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|          [Telegram](https://desktop.telegram.org/)          | [Steam ](https://store.steampowered.com/about/Steam?l=schinese) |          [百度网盘](https://pan.baidu.com/download)          |
-|     [腾讯会议](https://source.meeting.qq.com/download/)     | [EasyConnect](https://vpn.shiep.edu.cn/com/installClient.html#auto-common) |               [EV 录屏](https://www.ieway.cn/)               |
-| [下载 PicGo](https://github.com/Molunerfinn/PicGo/releases) |    [企业微信](https://work.weixin.qq.com/#indexDownload)     |                                                              |
 
 # 安卓应用合集
 
