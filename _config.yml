@@ -79,7 +79,7 @@ ga_domain: youngflysky.fun
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "在2021年的冬天, 名为 COVID-2019 的病毒仍在肆虐<br>而我选择了重新开始"
+sidebar-about-description: "在2021年的冬天, 名为 COVID-2019 的病毒仍在肆虐<br>而这就是开始"
 sidebar-avatar: https://avatars.githubusercontent.com/u/65670617?v=4   # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

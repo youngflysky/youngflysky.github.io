@@ -1,1 +1,1 @@
-&emsp;&emsp;&emsp;&emsp;<strong style="font-size:50px;color:#0070c0;">欢迎来到 YFS Blog !</strong><br/><br/>&emsp;&emsp;<strong style="font-size:30px;color:#7030a0;">Hello ! 我是 Youngflysky Lee</strong><br/><br/>&emsp;&emsp;<strong style="font-size:30px; color:#7030a0;">希望一同分享一同进步 !</strong>
+&emsp;&emsp;&emsp;&emsp;<strong style="font-size:50px;color:#0070c0;">欢迎来到 YFS Blog !</strong><br/><br/>
