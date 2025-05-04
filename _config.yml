@@ -103,10 +103,7 @@ page-mathjax: false
 
 # Friends
 friends: [
-    {
-        title: "CSDN",
-         href: "https://blog.csdn.net/bingleya?spm=1000.2115.3001.5343"
-     },{
+ {
         title: "GitHub",
         href: "https://github.com/youngflysky"
     }
